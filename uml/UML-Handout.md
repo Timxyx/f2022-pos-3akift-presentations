@@ -22,6 +22,7 @@
 
 ##### Construct a class in UML class diagram:
 ![[Pasted image 20221031083928.png]]
+
 ![](https://github.com/maskros-m/f2022-pos-3akift-presentations/blob/master/uml/Pasted%20image%2020221031083928.png)
 
 A simple rectangle, divided into three compartments:
@@ -33,8 +34,12 @@ A simple rectangle, divided into three compartments:
 Generalisation: used to denote a class is a child class of another.
 ![[Pasted image 20221031084226.png]]
 
+![](https://github.com/maskros-m/f2022-pos-3akift-presentations/blob/master/uml/Pasted%20image%2020221031084226.png)
+
 Association: used to denote a relationship between two classes (often comes with a verb to describe what the relationship is)
 ![[Pasted image 20221031084639.png]]
+
+![](https://github.com/maskros-m/f2022-pos-3akift-presentations/blob/master/uml/Pasted%20image%2020221031084639.png)
 
 
 ## Case Studies
