@@ -21,6 +21,7 @@
 **![](https://lh6.googleusercontent.com/FxUNKt3OoFUeZOHrThXCATO5WlEBBmy-_oCQkC03XV2Kw2LBNWPmGs_vELvm4FCTkYL8gBtaGlVqwf6BEygunWQrV-4-ylF6POGjujc3jix3XIMRADEqXOrJ7roKd3lO1uGHVflWS87B6tog1SU447onEGA3riBzwrFwTJaV0cQL4qpkhckWV41aLQSX)**
 
 ##### Construct a class in UML class diagram:
+
 ![[Pasted image 20221031083928.png]]
 
 ![](https://github.com/maskros-m/f2022-pos-3akift-presentations/blob/master/uml/Pasted%20image%2020221031083928.png)
@@ -32,11 +33,13 @@ A simple rectangle, divided into three compartments:
 
 ##### Associations in UML Class Diagram
 Generalisation: used to denote a class is a child class of another.
+
 ![[Pasted image 20221031084226.png]]
 
 ![](https://github.com/maskros-m/f2022-pos-3akift-presentations/blob/master/uml/Pasted%20image%2020221031084226.png)
 
 Association: used to denote a relationship between two classes (often comes with a verb to describe what the relationship is)
+
 ![[Pasted image 20221031084639.png]]
 
 ![](https://github.com/maskros-m/f2022-pos-3akift-presentations/blob/master/uml/Pasted%20image%2020221031084639.png)
