@@ -22,6 +22,7 @@
 
 ##### Construct a class in UML class diagram:
 ![[Pasted image 20221031083928.png]]
+![](https://github.com/maskros-m/f2022-pos-3akift-presentations/blob/master/uml/Pasted%20image%2020221031083928.png)
 
 A simple rectangle, divided into three compartments:
 - Class name (mandatory)
