@@ -1,20 +1,26 @@
-# First
+# Überblick
 
 ---
 
-## Second
+## Einleitung
+![](../assets/vorstellungsgespr.jpg)
 
 ---
 
-## Third
+## Die Vorteile von TDD
 
-<a style="font-size: 15px; position: absolute; bottom: 0px;" href="http://www.signalpro.biz/ismband.pdf">Quelle: Signalpro.biz</a>
+- Gewährleistung der Integrität beim Hinzufügen neuer Features
+- Steigerung der Produktivität durch klare Zielsetzung
+- Kann als Vertragsbasis mit Endkunden dienen
+- Kann als 'Kompass' für Entwickler dienen
 
 ---
 
- ## Fourth 
- ![](./assets/ism-bands.jpg)
- ---
+## TDD
+![](../assets/effects_tdd.png)
+
+---
+
 <a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://slideplayer.com/slide/6673407/">Quelle: Kerry Lyons SlidePLayer.com </a>
 
 ---
