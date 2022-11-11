@@ -104,33 +104,49 @@ Kann als Vertragsbasis mit Endkunden dienen
 
 ---
 
-### Warum wir uns für Jest entschieden haben
+<section>
+<h2>Warum wir uns für Jest entschieden haben</h2>
+</section>
 
----
-
-### a breeze to set up
+<section> 
+<h2>a breeze to set up</h2>
 
 - sehr einfach aufzusetzen
 - wird in create-react-app mitgeliefert
 
----
-
-### blazingly fast
+</section>
 
 
----
+<section data-markdown>
+
+## blazingly fast
+
+  </section>
+
+<section data-markdown>
 
 ### comes with batteries included
 
----
+  </section>
+
+
+
+<section data-markdown>
 
 ### TypeScript support
 
----
+  </section>
+
+
+
+<section data-markdown>
 
 ### Jest has got you covered
-
 Jest has built-in coverage reports. 
+
+  </section>
+
+
 
 ---
 
