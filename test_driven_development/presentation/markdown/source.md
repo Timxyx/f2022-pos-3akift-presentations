@@ -98,6 +98,46 @@ TDD is a code design technique, not a testing technique. The resulting tests are
 
 ### JEST
 
+---
+
+### Warum wir uns für Jest entschieden haben
+
+---
+
+<section>
+<h2>Title of first vertical slide</h2>
+ The body of the first slide
+</section>
+<section>
+<h2>Title of second vertical slide</h2>
+ The body of the second vertical slide
+</section>
+
+---
+
+### a breeze to set up
+
+- sehr einfach aufzusetzen
+- wird in create-react-app mitgeliefert
+
+---
+
+### blazingly fast
+
+
+---
+
+### comes with batteries included
+
+---
+
+### TypeScript support
+
+---
+
+### Jest has got you covered
+
+Jest has built-in coverage reports. 
 
 ---
 
