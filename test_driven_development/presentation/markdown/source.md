@@ -1,23 +1,90 @@
-# Überblick
+## Test-Driven Development: A Time-Tested Recipe for Quality Software
+### ✍️ Djon & Schuh
 
 ---
 
-## Einleitung
-![](../assets/vorstellungsgespr.jpg)
+# Überblick
+
+- asd
+- asd 
+- asd
+
+---
+
+# Geschichte
+
+- Kent Beck [https://github.com/KentBeck]
+- 📖 2002 _Test-Driven Development By Example_
+
+
+
+---
+
+## General Testing Strategies
+
+- Unit Tests
+- Integration Testing
+
+---
+
+# Theoretische Anwendung
+### 3 Schritte des TDD
+
+---
+
+## The “red test” stage
+- Implementierung eines automatisierten, fehlschlagenden Test Cases
+
+---
+
+## The “green test” stage
+- So wenig Code wie möglich schreiben
+
+---
+
+## The refactoring stage
+- Refaktorieren des neuen Codes
+
+---
+
+<img width="75%" src="./assets/TDD_diagram.png" alt="drawing"/>
+
+---
+
+
+## The pleasant side effects of TDD
+
+TDD is a code design technique, not a testing technique. The resulting tests are, in fact, “only a pleasant side effect.”
 
 ---
 
 ## Die Vorteile von TDD
 
+---
+
+
+<div style="position: absolute; top: -275%; left: -15%">Die Vorteile von TDD</div>
 - Gewährleistung der Integrität beim Hinzufügen neuer Features
+
+---
+
+<div style="position: absolute; top: -275%; left: -15%">Die Vorteile von TDD</div>
 - Steigerung der Produktivität durch klare Zielsetzung
+
+---
+
+<div style="position: absolute; top: -40vh; left: -10vw">Die Vorteile von TDD</div>
 - Kann als Vertragsbasis mit Endkunden dienen
-- Kann als 'Kompass' für Entwickler dienen
+
+
+---
+
+## The different styles of TDD
 
 ---
 
 ## TDD
-![](../assets/effects_tdd.png)
+<img width="75%" src="./assets/effects_tdd.png" alt="drawing"/>
 
 ---
 
@@ -27,11 +94,25 @@
 
 ### Fith
 
+---
+
+### JEST
+
 
 ---
-![](./frequenzies.png)
+
+## Coding Example
+
+<a href="www.google.com">GithubLink to code along</a>
 
 ---
+
+
+
+
+
+
+
 
 ## Das 2,4GHz Band
 ##### Das am besten bekannte ISM-Band
