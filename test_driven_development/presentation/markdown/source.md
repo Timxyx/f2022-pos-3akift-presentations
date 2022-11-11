@@ -1,9 +1,10 @@
-## Test-Driven Development: A Time-Tested Recipe for Quality Software
-### ✍️ Djon & Schuh
+<h1 style="font-size: 150px;">Test-Driven Development</h1>
+<h1 style="font-size: 60px;">A Time-Tested Recipe for Quality Software</h1>
+<h1 style="font-size: 20px; ">✍️ Djon & Schuh</h1>
 
 ---
 
-# Überblick
+<h1 style="font-size: 150px;">Überblick</h1>
 
 - asd
 - asd 
@@ -11,57 +12,55 @@
 
 ---
 
-# Geschichte
+<h1 style="font-size: 150px;">Geschichte</h1>
 
-- Kent Beck [https://github.com/KentBeck]
+- Kent Beck [[GitHub](https://github.com/KentBeck)]
 - 📖 2002 _Test-Driven Development By Example_
 
+---
 
+<h1 style="font-size: 80px;">General Testing Strategies</h1>
+
+<img width="75%" src="./assets/testing.png" alt="drawing"/>
 
 ---
 
-## General Testing Strategies
-
-- Unit Tests
-- Integration Testing
+<h1 style="font-size: 120px;">Theoretische Anwendung</h1>
+<h1 style="font-size: 60px;">3 Schritte des TDD</h1>
 
 ---
 
-# Theoretische Anwendung
-### 3 Schritte des TDD
+<h1 style="font-size: 90px;">The “RED TEST” Stage</h1>
+
+- Implementierung eines fehlschlagenden Tests
 
 ---
 
-## The “red test” stage
-- Implementierung eines automatisierten, fehlschlagenden Test Cases
+<h1 style="font-size: 90px;">The “GREEN TEST” stage</h1>
 
----
-
-## The “green test” stage
 - So wenig Code wie möglich schreiben
-
+  
 ---
 
-## The refactoring stage
-- Refaktorieren des neuen Codes
+<h1 style="font-size: 90px;">The Refactoring Stage</h1>
 
+- Refaktorieren des neuen Codes
+  
 ---
 
 <img width="75%" src="./assets/TDD_diagram.png" alt="drawing"/>
 
 ---
 
+<h1 style="font-size: 100px;">The pleasant side effects of TDD</h1>
 
-## The pleasant side effects of TDD
-
-TDD is a code design technique, not a testing technique. The resulting tests are, in fact, “only a pleasant side effect.”
-
----
-
-## Die Vorteile von TDD
+_**TDD is a code design technique, not a testing technique. The resulting tests are, in fact, “only a pleasant side effect.”**_
 
 ---
 
+<h1 style="font-size: 150px;">Die Vorteile von TDD</h1>
+
+---
 
 <div style="position: absolute; top: -275%; left: -15%">Die Vorteile von TDD</div>
 - Gewährleistung der Integrität beim Hinzufügen neuer Features
@@ -79,11 +78,12 @@ TDD is a code design technique, not a testing technique. The resulting tests are
 
 ---
 
-## The different styles of TDD
+<h1 style="font-size: 150px;">The Different Styles Of TDD</h1>
 
 ---
 
-## TDD
+<h1 style="font-size: 150px;">Die Vorteile von TDD</h1>
+
 <img width="75%" src="./assets/effects_tdd.png" alt="drawing"/>
 
 ---
