@@ -6,9 +6,29 @@
 
 <h1 style="font-size: 150px;">Überblick</h1>
 
-- asd
-- asd 
-- asd
+
+</section>
+
+</section>
+
+<section data-markdown>
+
+- Geschichte
+- General Testing Strategies
+- Theoretische Anwendung
+- Test Stages
+- TDD Zyklus
+</section>
+
+<section data-markdown>
+
+- Vorteile
+- Verschiedene Angehensweisen
+- Warum wir uns für Jest entschieden haben
+- Setup
+</section>
+
+
 
 ---
 
@@ -58,23 +78,21 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 ---
 
-<h1 style="font-size: 150px;">Die Vorteile von TDD</h1>
+<h1 style="font-size: 100px;">Die Vorteile von TDD</h1>
 
----
+</section>
+<section>
+</section>
 
-<div style="position: absolute; top: -275%; left: -15%">Die Vorteile von TDD</div>
-- Gewährleistung der Integrität beim Hinzufügen neuer Features
-
----
-
-<div style="position: absolute; top: -275%; left: -15%">Die Vorteile von TDD</div>
-- Steigerung der Produktivität durch klare Zielsetzung
-
----
-
-<div style="position: absolute; top: -40vh; left: -10vw">Die Vorteile von TDD</div>
-- Kann als Vertragsbasis mit Endkunden dienen
-
+<section>
+Gewährleistung der Integrität
+</section>
+<section>
+Steigerung der Produktivität durch klare Zielsetzung
+</section>
+<section>
+Kann als Vertragsbasis mit Endkunden dienen
+</section>
 
 ---
 
@@ -87,17 +105,6 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 ---
 
 ### Warum wir uns für Jest entschieden haben
-
----
-
-<section>
-<h2>Title of first vertical slide</h2>
- The body of the first slide
-</section>
-<section>
-<h2>Title of second vertical slide</h2>
- The body of the second vertical slide
-</section>
 
 ---
 
