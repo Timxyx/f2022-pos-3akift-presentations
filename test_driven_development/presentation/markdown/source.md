@@ -53,6 +53,10 @@
 <h1 style="font-size: 80px;"><a href="https://www.researchgate.net/publication/256848134_Effects_of_Test-Driven_Development_A_Comparative_Analysis_of_Empirical_Studies">🧾 tldr: YES</a> </h1>
 </section>
 
+<section>
+<img width="100%" src="./assets/benefits.png" alt="drawing"/>
+</section>
+
 
 ---
 
@@ -185,8 +189,7 @@ Built-in coverage reports.
 
 <img width="100%" src="./assets/coverage.png" alt="drawing"/>
 
-  </section>
-
+</section>
 
 
 ---
