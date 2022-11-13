@@ -13,21 +13,18 @@
 <section style="display: flex !important; justify-content: flex-start;" data-markdown>
 
 - History
-- General Testing Strategies
-- Theoretische Anwendung
-- Test Stages
-- TDD Zyklus
+- Reported Effects
+- 3 Steps of TDD
+- TDD cycle
 </section>
 
 <section data-markdown>
 
-- Vorteile
-- Verschiedene Angehensweisen
-- Warum wir uns für Jest entschieden haben
-- Setup
+- Benefits
+- Different Styles
+- Why we chose Jest
+- Coding Example
 </section>
-
-
 
 ---
 
@@ -41,9 +38,6 @@
 ---
 
 <h1 style="font-size: 80px;">But is TDD usefull?</h1>
-
-
-
 
 <section>
 </section>
@@ -92,10 +86,9 @@ GREEN TEST
 <img width="75%" src="./assets/stormfire.gif" alt="drawing"/>
 </section>
 
----
-
+<section>
 <img width="75%" src="./assets/TDD_diagram.png" alt="drawing"/>
-
+</section>
 ---
 
 <h1 style="font-size: 100px;">The pleasant side effects of TDD</h1>
@@ -137,16 +130,17 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 <section>
 <h2>Why we choose</h2>
 <img width="35%" src="./assets/jestLogo.png" alt="drawing"/>
+
 </section>
 
 <section> 
-<h2>🌬️ a breeze to set up 🌬️</h2>
+
+## 🌬️ a breeze to set up 🌬️
 
 - easy to setup
 - included in create-react-app
 
 </section>
-
 
 <section data-markdown>
 
@@ -155,8 +149,8 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 - Parallelization
 - slowest test first
 - Caching babel transforms
-.
-  </section>
+- 
+</section>
 
 <section data-markdown>
 
@@ -167,9 +161,7 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 **No additional dependecies needed.**
 
-  </section>
-
-
+</section>
 
 <section data-markdown>
 
@@ -177,10 +169,7 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 <img width="60%" src="./assets/types.png" alt="drawing"/>
 
-  </section>
-
-
-
+</section>
 
 <section data-markdown>
 
@@ -191,15 +180,22 @@ Built-in coverage reports.
 
 </section>
 
-
 ---
 
 ## Coding Example
 
-### Time to get to work
+### Time to get to work 👨‍🔧
 
 ---
 
+<h1 style="font-size: 70px;">“If I test the code I write, I get better quality code:</h1>
+<h1 style="font-size: 70px;">what would  happen if I took the process to the extreme: writing tests before the code itself?” </h1>
+
+_- Kent Beck_
+
+---
+
+<<<<<<< Updated upstream
 ### Jest vs Mocha (+ Chai)
 
 <img width="100%" src="./assets/jstvsmocha.png" alt="drawing"/>
@@ -212,4 +208,11 @@ Built-in coverage reports.
 </div>
 
 ---
+=======
+## ✨ Sources ✨
+>>>>>>> Stashed changes
 
+[jamesshore.com](https://www.jamesshore.com/v2/books/aoad1/test_driven_development)
+[semaphoreci.com](https://semaphoreci.com/blog/test-driven-development)
+[merixstudio.com](https://www.merixstudio.com/blog/mocha-vs-jest/)
+[methodpoet.com](https://methodpoet.com/unit-testing-vs-tdd/)
