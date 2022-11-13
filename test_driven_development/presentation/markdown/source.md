@@ -4,7 +4,7 @@
 
 ---
 
-<h1 style="font-size: 150px;">🗺️ Überblick</h1>
+<h1 style="font-size: 150px;">🗺️ Overview</h1>
 
 </section>
 
@@ -12,7 +12,7 @@
 
 <section style="display: flex !important; justify-content: flex-start;" data-markdown>
 
-- Geschichte
+- History
 - General Testing Strategies
 - Theoretische Anwendung
 - Test Stages
@@ -31,7 +31,7 @@
 
 ---
 
-<h1 style="font-size: 150px;">Geschichte</h1>
+<h1 style="font-size: 150px;">History</h1>
 
 - 👨‍🔬 Kent Beck [[GitHub](https://github.com/KentBeck)]
 - JUnit
@@ -60,7 +60,7 @@
 
 ---
 
-<section><h1 style="font-size: 100px;">3 Schritte des TDD</h1></section>
+<section><h1 style="font-size: 100px;">3 Steps of TDD</h1></section>
 
 <section>
 <h1 style="font-size: 90px;">The
@@ -68,7 +68,7 @@
 RED TEST
 </span>Stage</h1>
 
-- Implementierung eines fehlschlagenden Tests
+- Implement a failing test
 
 <img width="75%" src="./assets/failingtest.png" alt="drawing"/>
 </section>
@@ -79,7 +79,7 @@ RED TEST
 GREEN TEST
 </span>Stage</h1>
 
-- So wenig Code wie möglich schreiben
+- Write code as minimal as possible
 
 <img width="75%" src="./assets/passtest.png" alt="drawing"/>
 </section>
@@ -87,7 +87,7 @@ GREEN TEST
 <section>
 <h1 style="font-size: 90px;">The REFACTORING Stage</h1>
 
-- Refactoring des neuen Codes
+- Refactoring of new Codes
 - _Clean up behind yourself!_
 <img width="75%" src="./assets/stormfire.gif" alt="drawing"/>
 </section>
@@ -104,21 +104,27 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 ---
 
+<<<<<<< Updated upstream
 <h1 style="font-size: 100px; margin-bottom: 50px;">Die Vorteile von TDD</h1>
 <section style="padding-top: 60px;">
 <img width="80%" src="./assets/happypeople.png" alt="drawing"/>
+=======
+<h1 style="font-size: 100px;">The benefits of TDD</h1>
+
+>>>>>>> Stashed changes
 </section>
 
 </section>
 
 <section>
-✅ Gewährleistung der Integrität
+✅ Guarantee of Integrity
 </section>
 <section>
-✅ Steigerung der Produktivität durch klare Zielsetzung
+✅ Increase productivity through clear goal setting
+
 </section>
 <section>
-✅ Kann als Vertragsbasis mit Endkunden dienen
+✅ Can serve as a contract basis with end customers
 </section>
 
 ---
@@ -142,8 +148,13 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 <section> 
 <h2>🌬️ a breeze to set up 🌬️</h2>
 
+<<<<<<< Updated upstream
 - easy to setup
 - included in create-react-app
+=======
+- easy to set up
+- comes with create-react-app
+>>>>>>> Stashed changes
 
 </section>
 
