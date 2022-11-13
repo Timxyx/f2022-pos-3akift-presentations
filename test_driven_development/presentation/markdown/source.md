@@ -104,10 +104,11 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 ---
 
-<h1 style="font-size: 100px;">Die Vorteile von TDD</h1>
-
+<h1 style="font-size: 100px; margin-bottom: 50px;">Die Vorteile von TDD</h1>
+<section style="padding-top: 60px;">
+<img width="80%" src="./assets/happypeople.png" alt="drawing"/>
 </section>
-<section>
+
 </section>
 
 <section>
@@ -134,16 +135,15 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 ---
 
 <section>
-<h2>Warum wir uns für</h2>
+<h2>Why we choose</h2>
 <img width="35%" src="./assets/jestLogo.png" alt="drawing"/>
-<h2>entschieden haben</h2>
 </section>
 
 <section> 
 <h2>🌬️ a breeze to set up 🌬️</h2>
 
-- sehr einfach aufzusetzen
-- wird in create-react-app mitgeliefert
+- easy to setup
+- included in create-react-app
 
 </section>
 
@@ -152,11 +152,20 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 ## 🔥 blazingly fast 🔥
 
+- Parallelization
+- slowest test first
+- Caching babel transforms
+.
   </section>
 
 <section data-markdown>
 
 ### comes with batteries included
+- test runnerr
+- assertion library
+- mocking library
+
+**No additional dependecies needed.**
 
   </section>
 
@@ -166,18 +175,21 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 ### TypeScript support
 
+<img width="60%" src="./assets/types.png" alt="drawing"/>
+
   </section>
+
 
 
 
 <section data-markdown>
 
 ### Jest has got you covered
-Jest has built-in coverage reports. 
+Built-in coverage reports. 
+
+<img width="100%" src="./assets/coverage.png" alt="drawing"/>
 
 </section>
-
-
 
 
 ---
@@ -187,3 +199,5 @@ Jest has built-in coverage reports.
 <a href="www.google.com">GithubLink to code along</a>
 
 ---
+
+
