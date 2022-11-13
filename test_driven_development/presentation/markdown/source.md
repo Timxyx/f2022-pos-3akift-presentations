@@ -71,7 +71,9 @@ GREEN TEST
 <section>
 <h1 style="font-size: 90px;">The REFACTORING Stage</h1>
 
-- Refaktorieren des neuen Codes
+- Refactoring des neuen Codes
+- _Clean up behind yourself!_
+<img width="75%" src="./assets/stormfire.gif" alt="drawing"/>
 </section>
 
 ---
@@ -104,7 +106,10 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 ---
 
-<h1 style="font-size: 150px;">The Different Styles Of TDD</h1>
+<h1 style="font-size: 100px;">The Different Styles Of TDD</h1>
+
+1. “Classicist,” “Chicago style,” or “**Inside-out**“
+2. “Mockist,” “London style,” or “**Outside-in**”
 
 ---
 
