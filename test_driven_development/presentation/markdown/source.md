@@ -34,13 +34,25 @@
 <h1 style="font-size: 150px;">Geschichte</h1>
 
 - 👨‍🔬 Kent Beck [[GitHub](https://github.com/KentBeck)]
+- JUnit
+- Extreme Programming
 - 📖 2002 _Test-Driven Development By Example_
 
 ---
 
-<h1 style="font-size: 80px;">General Testing Strategies</h1>
+<h1 style="font-size: 80px;">But is TDD usefull?</h1>
 
-<img width="75%" src="./assets/testing.png" alt="drawing"/>
+
+
+
+<section>
+</section>
+
+
+<section>
+<h1 style="font-size: 80px;"><a href="https://www.researchgate.net/publication/256848134_Effects_of_Test-Driven_Development_A_Comparative_Analysis_of_Empirical_Studies">🧾 tldr: YES</a> </h1>
+</section>
+
 
 ---
 
