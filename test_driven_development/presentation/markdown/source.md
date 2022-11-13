@@ -200,4 +200,16 @@ Built-in coverage reports.
 
 ---
 
+### Jest vs Mocha (+ Chai)
+
+<img width="100%" src="./assets/jstvsmocha.png" alt="drawing"/>
+
+---
+
+<div style="display: flex;">
+<img width="100%" src="./assets/jestexample.png" alt="drawing"/>
+<img width="100%" src="./assets/mocha.png" alt="drawing"/>
+</div>
+
+---
 
