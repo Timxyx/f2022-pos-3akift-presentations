@@ -104,14 +104,8 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 ---
 
-<<<<<<< Updated upstream
-<h1 style="font-size: 100px; margin-bottom: 50px;">Die Vorteile von TDD</h1>
-<section style="padding-top: 60px;">
-<img width="80%" src="./assets/happypeople.png" alt="drawing"/>
-=======
 <h1 style="font-size: 100px;">The benefits of TDD</h1>
 
->>>>>>> Stashed changes
 </section>
 
 </section>
@@ -148,13 +142,8 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 <section> 
 <h2>🌬️ a breeze to set up 🌬️</h2>
 
-<<<<<<< Updated upstream
 - easy to setup
 - included in create-react-app
-=======
-- easy to set up
-- comes with create-react-app
->>>>>>> Stashed changes
 
 </section>
 
