@@ -4,8 +4,7 @@
 
 ---
 
-<h1 style="font-size: 150px;">Überblick</h1>
-
+<h1 style="font-size: 150px;">🗺️ Überblick</h1>
 
 </section>
 
@@ -34,7 +33,7 @@
 
 <h1 style="font-size: 150px;">Geschichte</h1>
 
-- Kent Beck [[GitHub](https://github.com/KentBeck)]
+- 👨‍🔬 Kent Beck [[GitHub](https://github.com/KentBeck)]
 - 📖 2002 _Test-Driven Development By Example_
 
 ---
@@ -45,27 +44,36 @@
 
 ---
 
-<h1 style="font-size: 120px;">Theoretische Anwendung</h1>
-<h1 style="font-size: 60px;">3 Schritte des TDD</h1>
+<section><h1 style="font-size: 100px;">3 Schritte des TDD</h1></section>
 
----
-
-<h1 style="font-size: 90px;">The “RED TEST” Stage</h1>
+<section>
+<h1 style="font-size: 90px;">The
+<span style="color: red">
+RED TEST
+</span>Stage</h1>
 
 - Implementierung eines fehlschlagenden Tests
 
----
+<img width="75%" src="./assets/failingtest.png" alt="drawing"/>
+</section>
 
-<h1 style="font-size: 90px;">The “GREEN TEST” stage</h1>
+<section>
+<h1 style="font-size: 90px;">The
+<span style="color: green">
+GREEN TEST
+</span>Stage</h1>
 
 - So wenig Code wie möglich schreiben
-  
----
 
-<h1 style="font-size: 90px;">The Refactoring Stage</h1>
+<img width="75%" src="./assets/passtest.png" alt="drawing"/>
+</section>
+
+<section>
+<h1 style="font-size: 90px;">The REFACTORING Stage</h1>
 
 - Refaktorieren des neuen Codes
-  
+</section>
+
 ---
 
 <img width="75%" src="./assets/TDD_diagram.png" alt="drawing"/>
@@ -85,13 +93,13 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 </section>
 
 <section>
-Gewährleistung der Integrität
+✅ Gewährleistung der Integrität
 </section>
 <section>
-Steigerung der Produktivität durch klare Zielsetzung
+✅ Steigerung der Produktivität durch klare Zielsetzung
 </section>
 <section>
-Kann als Vertragsbasis mit Endkunden dienen
+✅ Kann als Vertragsbasis mit Endkunden dienen
 </section>
 
 ---
@@ -100,16 +108,18 @@ Kann als Vertragsbasis mit Endkunden dienen
 
 ---
 
-### JEST
+<img width="100%" src="./assets/jestClown.jpg" alt="drawing"/>
 
 ---
 
 <section>
-<h2>Warum wir uns für Jest entschieden haben</h2>
+<h2>Warum wir uns für</h2>
+<img width="35%" src="./assets/jestLogo.png" alt="drawing"/>
+<h2>entschieden haben</h2>
 </section>
 
 <section> 
-<h2>a breeze to set up</h2>
+<h2>🌬️ a breeze to set up 🌬️</h2>
 
 - sehr einfach aufzusetzen
 - wird in create-react-app mitgeliefert
@@ -119,7 +129,7 @@ Kann als Vertragsbasis mit Endkunden dienen
 
 <section data-markdown>
 
-## blazingly fast
+## 🔥 blazingly fast 🔥
 
   </section>
 
