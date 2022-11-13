@@ -196,7 +196,7 @@ Built-in coverage reports.
 
 ## Coding Example
 
-<a href="www.google.com">GithubLink to code along</a>
+### Time to get to work
 
 ---
 
