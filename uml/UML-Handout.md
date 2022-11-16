@@ -61,16 +61,18 @@ To make the most out of UML for small projects:
 
 ## Resources
 #### 1. Tutorials
-[ACSSE Software Modelling Guide](https://uml.blauw.me/)
-	covers most frequently used, and perhaps most DA-relevant too, diagrams: use case, activity, class & sequence diagrams
-[javapoint](https://www.javatpoint.com/uml)
-	covers all UML diagram types. Expands explanation from ACSSE, with examples.
-[UML-diagrams.org](https://www.uml-diagrams.org/class-diagrams-overview.html)
-	covers all UML diagram types, but most valuable are probably their example diagrams
-	while reading these example diagrams, remember: relax on the rules!!
+- [ACSSE Software Modelling Guide](https://uml.blauw.me/)
+covers most frequently used, and perhaps most DA-relevant too, diagrams: use case, activity, class & sequence diagrams
+
+- [javapoint](https://www.javatpoint.com/uml)
+covers all UML diagram types. Expands explanation from ACSSE, with examples.
+
+- [UML-diagrams.org](https://www.uml-diagrams.org/class-diagrams-overview.html)
+covers all UML diagram types, but most valuable are probably their example diagrams
+while reading these example diagrams, remember: relax on the rules!!
 #### 2. Free UML tools
 *Remember: during planning phase pencils and paper are your best bet! 
-Use the following when you want a neat, presentable diagrams for DA defence purposes*
+Use the following when you want neat, presentable diagrams for DA defence purposes*
 - [Diagrams](https://app.diagrams.net/) (free, no limit)
 - [Software Ideas Modeller](https://www.softwareideas.net/en/download) (limit to 2 projects & a total of 400 objects for free plan)
 - [Gliffy](https://help.gliffy.com/online/Content/GliffyOnline/free_for_students.htm) (free student account available - follow link to read more - must email sales to activate because BULME doesn't use .edu or .ac domains)
