@@ -206,9 +206,8 @@ _- Kent Beck_
 </div>
 
 ---
-## ⭐ Sources ⭐
 
-#### [jamesshore.com](https://www.jamesshore.com/v2/books/aoad1/test_driven_development)
-####  [semaphoreci.com](https://semaphoreci.com/blog/test-driven-development)
-#### [merixstudio.com](https://www.merixstudio.com/blog/mocha-vs-jest/)
-#### [methodpoet.com](https://methodpoet.com/unit-testing-vs-tdd/)
+[jamesshore.com](https://www.jamesshore.com/v2/books/aoad1/test_driven_development)
+[semaphoreci.com](https://semaphoreci.com/blog/test-driven-development)
+[merixstudio.com](https://www.merixstudio.com/blog/mocha-vs-jest/)
+[methodpoet.com](https://methodpoet.com/unit-testing-vs-tdd/)
