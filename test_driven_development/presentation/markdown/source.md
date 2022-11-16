@@ -13,7 +13,7 @@
 <section style="display: flex !important; justify-content: flex-start;" data-markdown>
 
 - History
-- Reported Effects
+- Meta Study
 - 3 Steps of TDD
 - Benefits
 </section>
@@ -212,7 +212,7 @@ _- Kent Beck_
 
 ---
 
-## Sources
+## 🌟 Sources 🌟
 
 ##### [jamesshore.com](https://www.jamesshore.com/v2/books/aoad1/test_driven_development)
 ##### [semaphoreci.com](https://semaphoreci.com/blog/test-driven-development)
