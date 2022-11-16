@@ -15,15 +15,15 @@
 - History
 - Reported Effects
 - 3 Steps of TDD
-- TDD cycle
+- Benefits
 </section>
 
 <section data-markdown>
 
-- Benefits
 - Different Styles
 - Why we chose Jest
 - Coding Example
+- Jest vs Mocha
 </section>
 
 ---
@@ -81,7 +81,7 @@ GREEN TEST
 <section>
 <h1 style="font-size: 90px;">The REFACTORING Stage</h1>
 
-- Refactoring of new Codes
+- Refactoring the new code
 - _Clean up behind yourself!_
 <img width="75%" src="./assets/stormfire.gif" alt="drawing"/>
 </section>
@@ -149,7 +149,6 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 - Parallelization
 - slowest test first
 - Caching babel transforms
-- 
 </section>
 
 <section data-markdown>
@@ -159,7 +158,7 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 - assertion library
 - mocking library
 
-**No additional dependecies needed.**
+**No additional dependecies needed**
 
 </section>
 
@@ -195,7 +194,6 @@ _- Kent Beck_
 
 ---
 
-<<<<<<< Updated upstream
 ### Jest vs Mocha (+ Chai)
 
 <img width="100%" src="./assets/jstvsmocha.png" alt="drawing"/>
@@ -208,11 +206,9 @@ _- Kent Beck_
 </div>
 
 ---
-=======
-## ✨ Sources ✨
->>>>>>> Stashed changes
+## ⭐ Sources ⭐
 
-[jamesshore.com](https://www.jamesshore.com/v2/books/aoad1/test_driven_development)
-[semaphoreci.com](https://semaphoreci.com/blog/test-driven-development)
-[merixstudio.com](https://www.merixstudio.com/blog/mocha-vs-jest/)
-[methodpoet.com](https://methodpoet.com/unit-testing-vs-tdd/)
+#### [jamesshore.com](https://www.jamesshore.com/v2/books/aoad1/test_driven_development)
+####  [semaphoreci.com](https://semaphoreci.com/blog/test-driven-development)
+#### [merixstudio.com](https://www.merixstudio.com/blog/mocha-vs-jest/)
+#### [methodpoet.com](https://methodpoet.com/unit-testing-vs-tdd/)
