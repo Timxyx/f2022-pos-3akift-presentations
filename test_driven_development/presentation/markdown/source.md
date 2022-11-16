@@ -192,13 +192,6 @@ Built-in coverage reports
 
 ---
 
-<h1 style="font-size: 70px;">“If I test the code I write, I get better quality code:</h1>
-<h1 style="font-size: 70px;">what would  happen if I took the process to the extreme: writing tests before the code itself?” </h1>
-
-_- Kent Beck_
-
----
-
 ### Jest vs Mocha (+ Chai)
 
 <img width="100%" src="./assets/jstvsmocha.png" alt="drawing"/>
@@ -209,6 +202,13 @@ _- Kent Beck_
 <img width="100%" src="./assets/jestexample.png" alt="drawing"/>
 <img width="100%" src="./assets/mocha.png" alt="drawing"/>
 </div>
+
+---
+
+<h1 style="font-size: 70px;">“If I test the code I write, I get better quality code:</h1>
+<h1 style="font-size: 70px;">what would  happen if I took the process to the extreme: writing tests before the code itself?” </h1>
+
+_- Kent Beck_
 
 ---
 
