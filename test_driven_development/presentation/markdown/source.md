@@ -111,7 +111,12 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 </section>
 <section>
-✅ Can serve as a contract basis with end customers
+✅ Can serve as a contract basis with endcustomers
+</section>
+
+</section>
+<section>
+✅ Serves as a 'compass' for developers
 </section>
 
 ---
@@ -137,8 +142,8 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 
 ## 🌬️ a breeze to set up 🌬️
 
-- easy to setup
-- included in create-react-app
+- Easy to setup
+- Included in create-react-app
 
 </section>
 
@@ -147,16 +152,16 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 ## 🔥 blazingly fast 🔥
 
 - Parallelization
-- slowest test first
+- Slowest test first
 - Caching babel transforms
 </section>
 
 <section data-markdown>
 
 ### comes with batteries included
-- test runnerr
-- assertion library
-- mocking library
+- Test runner
+- Assertion library
+- Mocking library
 
 **No additional dependecies needed**
 
@@ -173,7 +178,7 @@ _**TDD is a code design technique, not a testing technique. The resulting tests 
 <section data-markdown>
 
 ### Jest has got you covered
-Built-in coverage reports. 
+Built-in coverage reports
 
 <img width="100%" src="./assets/coverage.png" alt="drawing"/>
 
@@ -207,7 +212,9 @@ _- Kent Beck_
 
 ---
 
-[jamesshore.com](https://www.jamesshore.com/v2/books/aoad1/test_driven_development)
-[semaphoreci.com](https://semaphoreci.com/blog/test-driven-development)
-[merixstudio.com](https://www.merixstudio.com/blog/mocha-vs-jest/)
-[methodpoet.com](https://methodpoet.com/unit-testing-vs-tdd/)
+## Sources
+
+##### [jamesshore.com](https://www.jamesshore.com/v2/books/aoad1/test_driven_development)
+##### [semaphoreci.com](https://semaphoreci.com/blog/test-driven-development)
+##### [merixstudio.com](https://www.merixstudio.com/blog/mocha-vs-jest/)
+##### [methodpoet.com](https://methodpoet.com/unit-testing-vs-tdd/)
