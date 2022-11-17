@@ -2,7 +2,7 @@
 
 | Topic                          | Date       | Duration |
 | ------------------------------ | ---------- | -------- |
-| Software Quality               | 2022-11-17 | 40 min   |
+| [Software Quality](software_quality/)               | 2022-11-17 | 40 min   |
 | [Test Driven Development](test_driven_development/)        | 2022-11-17 | 40 min   |
 | UML                            | 2022-11-24 | 40 min   |
 | Software Development Processes | 2022-11-24 | 40 min   |
