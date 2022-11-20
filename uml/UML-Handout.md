@@ -1,17 +1,49 @@
 # Unified Modelling Language
-## What is UML?
+1. [What is UML?](#def)
+2. [Why UML?](#why)
+3. [Activity Diagram](#acti)
+- [What is an activity diagram?](#sub1)
+- [Benefits of activity diagram](#sub2)
+- [Activity diagram symbols](#sub3)
+- [Activity diagram example](#sub4)
+
+4. [Class Diagram](#class)
+5. [Caution](#caution)
+6. [Resources](#resources)
+## What is UML? <a name="def"></a>
 - A method of describing the structure or behaviour of a system using diagrams (is also called a *modelling language*)
 - Used most often in the field of software engineering
 - Aimed at large and complex software applications 
 
-## Why UML?
+## Why UML? <a name="why"></a>
 - UML assists software maintenance and debugging, as it helps programmers to gain an overview of a system quickly, and to be able to locate where potential bugs lie, even long after the original software developer(s) has moved on from the project.
 - It can also make collaboration among team members, or among teams, easier, as it provides a concrete visualisation of which part each team or team member should be in charge of. It also helps to reduce repeated or redundant code.
 - UML provides a form of software documentation (in visual form)
 - It also offers an explanation of the purposes or objectives of a project to businessmen (who naturally might not understand code!)
 - UML can save time and resources in the long run
 
-## Class Diagram
+## Activity Diagram <a name="acti"></a>
+
+### What is an activity diagram? <a name="sub1"></a>
+The Unified Modeling Language includes several subsets of diagrams, including structure diagrams and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
+### Benefits of activity diagram <a name="sub2"></a>
+Consider creating an activity diagram to:
+- Demonstrate the logic of an algorithm.
+- Describe the steps performed in a UML use case.
+- Illustrate a business process or workflow between users and the system.
+- Simplify and improve any process by clarifying complicated use cases.
+- Model software architecture elements, such as method, function, and operation.
+### Activity diagram symbols <a name="sub3"></a>
+
+
+
+
+
+
+
+### Activity example <a name="sub4"></a>
+
+## Class Diagram <a name="class"></a>
 - is suitable for projects that use object-oriented programming approach
 - is used to capture the classes (usually just the classes!) used within a software application. 
 - is the most widely used UML diagram
@@ -46,7 +78,7 @@ Association: used to denote a relationship between two classes (often comes with
 
 
 ## Case Studies
-## Caution
+## Caution <a name="caution"></a>
 UML however can have some disadvantages:
 - It can be time-consuming to build, taking away time from actual coding
 - UML diagrams can get out-of-date quickly past the planning phase as code is written, revised and changed
@@ -59,7 +91,7 @@ To make the most out of UML for small projects:
 - Draw elaborate diagrams only for DA presentation/ writing purposes.
 - For DA, class, activity and sequence (probably use case) are usually enough. You might not need to use all of these, however.
 
-## Resources
+## Resources <a name="resources"></a>
 #### 1. Tutorials
 - [ACSSE Software Modelling Guide](https://uml.blauw.me/)
 covers most frequently used, and perhaps most DA-relevant too, diagrams: use case, activity, class & sequence diagrams
