@@ -116,6 +116,6 @@ Use the following when you want neat, presentable diagrams for DA defence purpos
 -   [Doxygen](https://www.doxygen.nl/download.html) (C, C++, Python, Java & a few others)\*
 -   [IntelliJ Ultimate](https://www.jetbrains.com/community/education/) (Java & Python)\*\*
 
-*\*free, open-source software*
+*\*free, open-source software*<br/>
 *\*\*free student account available*
 
