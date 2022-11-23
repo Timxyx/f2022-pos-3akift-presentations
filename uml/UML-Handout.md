@@ -36,7 +36,7 @@ Consider creating an activity diagram to:
 ### Activity diagram symbols <a name="sub3"></a>
 ![components_1](component1.png)
 ![explain1](r_comp1.png)
-![components_2](component2.png)
+![components_2](component2.png) <br>
 ![explain2](r_comp2.png)
 
 ### Activity example <a name="sub4"></a>
