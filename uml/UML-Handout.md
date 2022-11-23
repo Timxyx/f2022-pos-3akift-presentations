@@ -26,7 +26,7 @@
 
 ### What is an activity diagram? <a name="sub1"></a>
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
-### Benefits of activity diagram <a name="sub2"></a>
+### Uses of activity diagram <a name="sub2"></a>
 Consider creating an activity diagram to:
 - Demonstrate the logic of an algorithm.
 - Describe the steps performed in a UML use case.
