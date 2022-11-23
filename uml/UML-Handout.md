@@ -101,7 +101,7 @@ covers most frequently used, and perhaps most DA-relevant too, diagrams: use cas
 covers all UML diagram types. Expands explanation from ACSSE, with examples.
 
 - [UML-diagrams.org](https://www.uml-diagrams.org/class-diagrams-overview.html)
-covers all UML diagram types, but most valuable are probably their example diagrams
+covers all UML diagram types, but most valuable are probably their example diagrams<br/>
 while reading these example diagrams, remember: relax on the rules!!
 #### 2. Free UML tools
 *Remember: during planning phase pencils and paper are your best bet! 
@@ -114,6 +114,8 @@ Use the following when you want neat, presentable diagrams for DA defence purpos
 -   Visual Studio (Class Designer component for C & C++) (available on both Community and Professional)
 -   [Umbrello](https://umbrello.kde.org/installation.php) (C, C++, Python, Java & many others)\*
 -   [Doxygen](https://www.doxygen.nl/download.html) (C, C++, Python, Java & a few others)\*
+-   [IntelliJ Ultimate](https://www.jetbrains.com/community/education/) (Java & Python)\*\*
 
 *\*free, open-source software*
+*\*\*free student account available*
 
