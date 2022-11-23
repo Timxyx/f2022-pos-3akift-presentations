@@ -34,14 +34,15 @@ Consider creating an activity diagram to:
 - Simplify and improve any process by clarifying complicated use cases.
 - Model software architecture elements, such as method, function, and operation.
 ### Activity diagram symbols <a name="sub3"></a>
-
-
-
-
-
-
+![components_1](component1.png)
+![explain1](r_comp1.png)
+![components_2](component2.png)
+![explain2](r_comp2.png)
 
 ### Activity example <a name="sub4"></a>
+![example1](ex1.png)
+![example2](ex2.png)
+![example3](ex3.png)
 
 ## Class Diagram <a name="class"></a>
 - is suitable for projects that use object-oriented programming approach
