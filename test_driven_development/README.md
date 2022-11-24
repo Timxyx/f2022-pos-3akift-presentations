@@ -4,7 +4,8 @@
 
 ---
 
-<h1 style="font-size: 150px;">🗺️ Overview</h1>
+## 🗺️ Overview
+
 - Definition
 - History
 - Meta Study
@@ -15,7 +16,7 @@
 - Coding Example
 - Jest vs Mocha
 
-### Definition
+## Definition
 
 TDD ist eine Design Praxis in der Softwareentwicklung, bei der die Struktur/Funktionalität des Programms im Vorfeld durch UNIT Tests definiert wird.
 
@@ -27,7 +28,7 @@ Vorallem bei der Front-End Entwicklung wird dies oft außer Acht gelassen. Dabei
 
 ---
 
-### Geschichte
+## 📖Geschichte
 
 Die Erfindung wird dem Amerikaner Kent Beck zugeschrieben.
 
@@ -41,7 +42,7 @@ Softwareentwicklungsprojekte sind unterschiedlichen Gefahren ausgesetzt, für di
 
 ---
 
-#### But is TDD usefull?
+## But is TDD usefull?
 
 <h1 style="font-size: 80px;"><a href="https://www.researchgate.net/publication/256848134_Effects_of_Test-Driven_Development_A_Comparative_Analysis_of_Empirical_Studies">🧾 tldr: YES</a> </h1>
 
@@ -53,13 +54,13 @@ Studien zufolge hilft TDD, Bugs zu reduzieren und die Wartbarkeit des Codes lang
 
 Es macht nicht nur Spaß, sondern man erfährt auf unerwartete Weise über seinen eigenen Coding-Stil. Zudem hilft es einem beim Debugging.
 
-Der Red-Green-Refactor-Zyklus ist der absolute Procrastinating-killer!
+**Der Red-Green-Refactor-Zyklus ist der absolute Procrastinating-killer!**
 
 ---
 
 ## Theoretische Anwendung
 
-#### 3 Schritte des TDD:
+## 3 Schritte des TDD:
 
 1.  Implementierung eines automatisierten, fehlschlagenden Test Cases, der die gewünschte Verbesserung oder neue Funktion darstellt
 
@@ -77,8 +78,6 @@ Der Red-Green-Refactor-Zyklus ist der absolute Procrastinating-killer!
 ---
 
 ## **The pleasant side effects of TDD**
-
-<img width="75%" src="presentation/assets/TDD_diagram.png" alt="drawing"/>
 
 TDD is a code design technique, not a testing technique. The resulting tests are, in fact, “only a pleasant side effect.”
 
@@ -144,13 +143,17 @@ Jest ist eine Testing Framework und als solches nicht auf die Verwendung von Thi
 
 ---
 
-#### Wieso wir uns für Jest entscheiden
+### Wieso wir uns für
 
 <img width="35%" src="presentation/assets/jestLogo.png" alt="drawing"/>
+
+### entscheiden haben
 
 -   vollwertige vorkonfigurierte Testumgebung
 -   leichter Einstieg
 -   fokussiert auf Simplizität
+
+---
 
 ### blanzingly fast
 
@@ -192,17 +195,14 @@ From all the above features and advantages of the jest framework, we can conclud
 <img width="60%" src="presentation/assets/types.png" alt="drawing"/>
 
 
-
 ### Jest has got you covered
 Built-in coverage reports
 
 <img width="100%" src="presentation/assets/coverage.png" alt="drawing"/>
 
-
 ---
 
-
-#### Vergleich Jest vs MochaJS + Chai
+### Vergleich Jest vs MochaJS + Chai
 
 Zwei der beliebtesten Testtools, mit denen Node.js-Entwickler arbeiten, sind Mocha und Jest. Was sind die wichtigsten Unterschiede zwischen ihnen und für welches sollten wir uns entscheiden?
 
@@ -221,8 +221,9 @@ Wir haben Jest bereits in Aktion gesehen, sehen wir uns nun MochaJS mithilfe der
 Es hängt stark von der Art der zu enwtickelnden Anwendung ab. Wenn es eine React- oder Nest.js-Anwendung wäre, würde ich vorschlagen, beim Jest-Framework zu bleiben, da es einfach eine Standardoption ist. Die Wahl von Mocha könnte jedoch der richtige Weg für große Node.js-Projekte sein, dank seiner enormen Flexibilität und Vielfalt an Bibliotheken, die es einem erfahrenen Entwickler bietet. In den meisten Fällen wäre Jest immer noch ein Gewinner, da es mit einem Ökosystem einhergeht, das aus vorkonfigurierten Funktionen wie Test Runner, Assertion Library und anderen wertvollen Tools besteht.
 
 ---
-<h1 style="font-size: 70px;">“If I test the code I write, I get better quality code:</h1>
 
-<h1 style="font-size: 70px;">what would happen if I took the process to the extreme: writing tests before the code itself?” </h1>
+#### “If I test the code I write, I get better quality code:<
+
+##### what would happen if I took the process to the extreme: writing tests before the code itself?”
 
 _- Kent Beck_
