@@ -1,8 +1,7 @@
-# Test-Driven Development
-## A Time-Tested Recipe for Quality Software
+# Test-Driven Development - A Time-Tested Recipe for Quality Software
+
 #### ✍️ Djon & Schuh
 
----
 
 ## 🗺️ Overview
 
@@ -58,20 +57,20 @@ Es macht nicht nur Spaß, sondern man erfährt auf unerwartete Weise über seine
 
 ## Theoretische Anwendung
 
-3 Schritte des TDD:
+**3 Schritte des TDD:**
 
 1.  Implementierung eines automatisierten, fehlschlagenden Test Cases, der die gewünschte Verbesserung oder neue Funktion darstellt
 
-<img width="100%" src="presentation/assets/failingtest.png" alt="drawing"/>
+<img width="75%" src="presentation/assets/failingtest.png" alt="drawing"/>
 
 2.  So wenig Code wie möglich schreiben, sodass der neue Test und der Rest der Testsuite bestehen.
 
-<img width="100%" src="presentation/assets/passtest.png" alt="drawing"/>
+<img width="75%" src="presentation/assets/passtest.png" alt="drawing"/>
 
 3.  Refaktorieren Sie den neuen Code auf den gewünschten Standard. Refactoring ist entscheidend für die allgemeine Codequalität. Wir sollten zuversichtlich sein, dass unser Code wie erwartet funktioniert und die Funktion vollständig abgedeckt ist.
 
 - _Clean up behind yourself!_
-<img width="100%" src="presentation/assets/stormfire.gif" alt="drawing"/>
+<img width="75%" src="presentation/assets/stormfire.gif" alt="drawing"/>
 
 ---
 
@@ -119,25 +118,15 @@ Wir werden unsere ersten kleinen Tests schreiben und unsere Lösung von innen na
 
 Jest is a testing framework created by Facebook. It is open source and it allows you to create JavaScript tests fast and easily.
 
-Jest verfolg eine klare Philosophie wenn es um Schnelligkeit und Einfachheit geht.
-
-Und das wiederspiegelt sich auch in der Art und Weise wie ihr mit Jest Tests schreibt,
-
-wie ihr später noch sehen werdet.
-
-Es ist hauptsächlich in Verrwendung in React FrontEnd Applikationen.
-
-Läuft aber selbsterrständlich in jeder Node Umgebung.
+Jest verfolgt eine klare Philosophie wenn es um Schnelligkeit und Einfachheit geht, dies wiederspiegelt sich auch in der Art und Weise wie ihr mit Jest Tests schreibt.
 
 Als eine der bekanntesten Testing Solutions genießt Jest sehr große Beliebtheit in der Entwickler Community
 
-Diese Beliebtheit ermöglicht es uns Jest im FrontEnd sowol als auh im BackEnd zu verwenden.
+Diese Beliebtheit ermöglicht es uns Jest im FrontEnd sowohl als auch im BackEnd zu verwenden.
 
-Viele große Firmen setzen auf Jest.
+Viele große Firmen setzen auf Jest, unter anderem **Twitter, Pinterest, Instagram.**
 
-unter anderem **Twitter, Pinterest, Instagram.**
-
-Jest ist eine Testing Framework und als solches nicht auf die Verwendung von ThirdParty libraries angewiesen.
+- **Jest ist eine Testing Framework und als solches nicht auf die Verwendung von ThirdParty libraries angewiesen.**
 
 ---
 
@@ -213,8 +202,6 @@ Was im ertesten Blick zwar einfach anch mehr Arbeit erscheinen mag, aber einem n
 Darüber hinaus legt Mocha keine strengen Anforderungen für das Zusammenstellen dieser Bibliotheken fest und ist als optimierteres Tool bekannt, was zu einer schnelleren Ausführung von Tests führt.
 
 Eine andere erwähnenswerte Sache ist, dass Jest allgemein als ein „leichter zu erlernendes“ Testwerkzeug bekannt ist, was für neue Entwickler, den TDD-Ansatz zu übernehmen, von Vorteil sein könnte. Darüber hinaus unterstützt Jest weder logische Konjunktionen noch Disjunktionen, während Mocha (zusammen mit der Chai-Assertion-Library) dies tut.
-
-Wir haben Jest bereits in Aktion gesehen, sehen wir uns nun MochaJS mithilfe der Chai-Asserition Library an.
 
 Es hängt stark von der Art der zu enwtickelnden Anwendung ab. Wenn es eine React- oder Nest.js-Anwendung wäre, würde ich vorschlagen, beim Jest-Framework zu bleiben, da es einfach eine Standardoption ist. Die Wahl von Mocha könnte jedoch der richtige Weg für große Node.js-Projekte sein, dank seiner enormen Flexibilität und Vielfalt an Bibliotheken, die es einem erfahrenen Entwickler bietet. In den meisten Fällen wäre Jest immer noch ein Gewinner, da es mit einem Ökosystem einhergeht, das aus vorkonfigurierten Funktionen wie Test Runner, Assertion Library und anderen wertvollen Tools besteht.
 
