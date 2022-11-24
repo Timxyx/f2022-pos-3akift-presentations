@@ -28,7 +28,7 @@ Vorallem bei der Front-End Entwicklung wird dies oft außer Acht gelassen. Dabei
 
 ---
 
-## 📖Geschichte
+## 📖 Geschichte
 
 Die Erfindung wird dem Amerikaner Kent Beck zugeschrieben.
 
@@ -46,11 +46,11 @@ Softwareentwicklungsprojekte sind unterschiedlichen Gefahren ausgesetzt, für di
 
 <a href="https://www.researchgate.net/publication/256848134_Effects_of_Test-Driven_Development_A_Comparative_Analysis_of_Empirical_Studies">🧾 tldr: YES</a>
 
-<img width="100%" src="presentation/assets/benefits.png" alt="drawing"/>
-
 Studien zufolge hilft TDD, Bugs zu reduzieren und die Wartbarkeit des Codes langfristig zu verbessern.
 
 Es macht nicht nur Spaß, sondern man erfährt auf unerwartete Weise über seinen eigenen Coding-Stil. Zudem hilft es einem beim Debugging.
+
+<img width="100%" src="presentation/assets/benefits.png" alt="drawing"/>
 
 **Der Red-Green-Refactor-Zyklus ist der absolute Procrastinating-killer!**
 
@@ -62,16 +62,16 @@ Es macht nicht nur Spaß, sondern man erfährt auf unerwartete Weise über seine
 
 1.  Implementierung eines automatisierten, fehlschlagenden Test Cases, der die gewünschte Verbesserung oder neue Funktion darstellt
 
-<img width="75%" src="presentation/assets/failingtest.png" alt="drawing"/>
+<img width="100%" src="presentation/assets/failingtest.png" alt="drawing"/>
 
 2.  So wenig Code wie möglich schreiben, sodass der neue Test und der Rest der Testsuite bestehen.
 
-<img width="75%" src="presentation/assets/passtest.png" alt="drawing"/>
+<img width="100%" src="presentation/assets/passtest.png" alt="drawing"/>
 
 3.  Refaktorieren Sie den neuen Code auf den gewünschten Standard. Refactoring ist entscheidend für die allgemeine Codequalität. Wir sollten zuversichtlich sein, dass unser Code wie erwartet funktioniert und die Funktion vollständig abgedeckt ist.
 
 - _Clean up behind yourself!_
-<img width="75%" src="presentation/assets/stormfire.gif" alt="drawing"/>
+<img width="100%" src="presentation/assets/stormfire.gif" alt="drawing"/>
 
 ---
 
@@ -81,7 +81,7 @@ TDD is a code design technique, not a testing technique. The resulting tests are
 
 ---
 
-### Vorteile des TDD's
+## Vorteile des TDD's
 
 -   Gewährleistung der Integrität beim Hinzufügen neuer Features
 -   Steigerung der Produktivität durch klare Zielsetzung
