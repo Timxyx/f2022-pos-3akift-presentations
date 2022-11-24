@@ -1,6 +1,6 @@
-<h1 style="font-size: 150px;">Test-Driven Development</h1>
-<h1 style="font-size: 60px;">A Time-Tested Recipe for Quality Software</h1>
-<h1 style="font-size: 20px; ">✍️ Djon & Schuh</h1>
+# Test-Driven Development
+## A Time-Tested Recipe for Quality Software
+#### ✍️ Djon & Schuh
 
 ---
 
@@ -44,11 +44,9 @@ Softwareentwicklungsprojekte sind unterschiedlichen Gefahren ausgesetzt, für di
 
 ## But is TDD usefull?
 
-<h1 style="font-size: 80px;"><a href="https://www.researchgate.net/publication/256848134_Effects_of_Test-Driven_Development_A_Comparative_Analysis_of_Empirical_Studies">🧾 tldr: YES</a> </h1>
+<a href="https://www.researchgate.net/publication/256848134_Effects_of_Test-Driven_Development_A_Comparative_Analysis_of_Empirical_Studies">🧾 tldr: YES</a>
 
 <img width="100%" src="presentation/assets/benefits.png" alt="drawing"/>
-
-Diese Herangehensweise ist nicht immer praktikabel, aber wenn man ein Projekt mit sehr klaren Anforderungen hat, kann dies die Produktivität verbessern.
 
 Studien zufolge hilft TDD, Bugs zu reduzieren und die Wartbarkeit des Codes langfristig zu verbessern.
 
@@ -60,7 +58,7 @@ Es macht nicht nur Spaß, sondern man erfährt auf unerwartete Weise über seine
 
 ## Theoretische Anwendung
 
-## 3 Schritte des TDD:
+3 Schritte des TDD:
 
 1.  Implementierung eines automatisierten, fehlschlagenden Test Cases, der die gewünschte Verbesserung oder neue Funktion darstellt
 
@@ -202,7 +200,7 @@ Built-in coverage reports
 
 ---
 
-### Vergleich Jest vs MochaJS + Chai
+## Vergleich Jest vs MochaJS + Chai
 
 Zwei der beliebtesten Testtools, mit denen Node.js-Entwickler arbeiten, sind Mocha und Jest. Was sind die wichtigsten Unterschiede zwischen ihnen und für welches sollten wir uns entscheiden?
 
@@ -222,7 +220,7 @@ Es hängt stark von der Art der zu enwtickelnden Anwendung ab. Wenn es eine Reac
 
 ---
 
-#### “If I test the code I write, I get better quality code:<
+#### “If I test the code I write, I get better quality code:
 
 ##### what would happen if I took the process to the extreme: writing tests before the code itself?”
 
