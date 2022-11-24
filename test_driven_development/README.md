@@ -1,4 +1,5 @@
-# Test-Driven Development - A Time-Tested Recipe for Quality Software
+# Test-Driven Development
+### A Time-Tested Recipe for Quality Software
 
 #### ✍️ Djon & Schuh
 
